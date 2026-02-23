@@ -133,4 +133,4 @@ opencv_face_expression_detection/
 
 ## 📄 License
 
-This project is open source and available for learning and personal use.
+This project is licensed under the [MIT License](LICENSE).
