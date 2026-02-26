@@ -36,7 +36,7 @@ Follow these steps to set up and run the project:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bharanidharanrangaraj/opencv_face_expression_detection.git
 cd opencv_face_expression_detection
 ```
 
